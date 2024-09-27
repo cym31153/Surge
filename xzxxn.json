@@ -6,6 +6,26 @@
   "repo": "https://github.com/xzxxn777/Surge",
   "apps": [
     {
+      "id": "HQZL",
+      "name": "红旗智联",
+      "keys": [
+        "HQZL"
+      ],
+      "scripts": [
+        {
+          "name": "红旗智联-手动执行",
+          "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/HQZL/HQZL.js"
+        }
+      ],
+      "settings": [
+        {
+          "id": "HQZL",
+          "name": "账号密码",
+          "val": "",
+          "type": "text",
+          "desc": 'HQZL="账号1&密码1 账号2&密码2"'
+        },
+    {
       "id": "QieHuang",
       "name": "茄皇兑换",
       "keys": [
